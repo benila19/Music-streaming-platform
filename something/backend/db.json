@@ -1,0 +1,519 @@
+{
+  "TopSongs": [
+    {
+      "id": "1",
+      "title": "Shape of You",
+      "artist": "Ed Sheeran",
+      "views": "3.1B",
+      "audioUrl": "https://samplelib.com/lib/preview/mp3/sample-3s.mp3",
+      "imageUrl": "https://a10.gaanacdn.com/gn_img/albums/0wrb4qNKLg/wrb4dDxLbL/size_l.webp"
+    },
+    {
+      "id": "2",
+      "title": "Blinding Lights",
+      "artist": "The Weeknd",
+      "views": "2.9B",
+      "audioUrl": "https://samplelib.com/lib/preview/mp3/sample-15s.mp3",
+      "imageUrl": "https://a10.gaanacdn.com/gn_img/albums/BZgWoQOK2d/gWoQjXQOK2/size_l.webp"
+    },
+    {
+      "id": "3",
+      "title": "Levitating",
+      "artist": "Dua Lipa",
+      "views": "1.5B",
+      "audioUrl": "https://samplelib.com/lib/preview/mp3/sample-6s.mp3",
+      "imageUrl": "https://a10.gaanacdn.com/gn_img/albums/w4MKPObojg/4MKPGkYObo/size_l.webp"
+    },
+    {
+      "id": "4",
+      "title": "Stay",
+      "artist": "The Kid LAROI & Justin Bieber",
+      "views": "2.5B",
+      "audioUrl": "https://samplelib.com/lib/preview/mp3/sample-12s.mp3",
+      "imageUrl": "https://a10.gaanacdn.com/gn_img/albums/DwPKOxB3qV/PKOxed263q/size_l.webp"
+    },
+    {
+      "id": "5",
+      "title": "Industry Baby",
+      "artist": "Lil Nas X & Jack Harlow",
+      "views": "1.7B",
+      "audioUrl": "https://samplelib.com/lib/preview/mp3/sample-7s.mp3",
+      "imageUrl": "https://a10.gaanacdn.com/gn_img/albums/7rVW1Rbk56/VW1aNjDnWk/size_l.webp"
+    },
+    {
+      "id": "6",
+      "title": "Bad Habits",
+      "artist": "Ed Sheeran",
+      "views": "1.9B",
+      "audioUrl": "https://samplelib.com/lib/preview/mp3/sample-3s.mp3",
+      "imageUrl": "https://a10.gaanacdn.com/gn_img/albums/Rz4W8vKxD5/4W8e200vbx/size_l.webp"
+    },
+    {
+      "id": "7",
+      "title": "Save Your Tears",
+      "artist": "The Weeknd",
+      "views": "2.2B",
+      "audioUrl": "https://samplelib.com/lib/preview/mp3/sample-15s.mp3",
+      "imageUrl": "https://a10.gaanacdn.com/gn_img/albums/Oxd3xP3gVY/d3xzNEp5bg/size_l_1619161205.webp"
+    },
+    {
+      "id": "8",
+      "title": "Drivers License",
+      "artist": "Olivia Rodrigo",
+      "views": "1.6B",
+      "audioUrl": "https://samplelib.com/lib/preview/mp3/sample-6s.mp3",
+      "imageUrl": "https://a10.gaanacdn.com/gn_img/albums/XYybzNrb2g/ybzN5Qxgb2/size_l.jpg"
+    },
+    {
+      "id": "9",
+      "title": "Peaches",
+      "artist": "Justin Bieber ft. Daniel Caesar & Giveon",
+      "views": "1.8B",
+      "audioUrl": "https://img.wynk.in/unsafe/248x248/filters:no_upscale():strip_exif():format(webp)/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/srch_universalmusic/music/1616133174/srch_universalmusic_00602435848983-USUM72102636.jpg"
+    },
+    {
+      "id": "10",
+      "title": "Good 4 U",
+      "artist": "Olivia Rodrigo",
+      "views": "1.7B",
+      "audioUrl": "https://samplelib.com/lib/preview/mp3/sample-7s.mp3",
+      "imageUrl": "https://a10.gaanacdn.com/gn_img/albums/koMWQ7BKqL/MWQ48MwB3q/size_l.jpg"
+    },
+    {
+      "id": "11",
+      "title": "Easy On Me",
+      "artist": "Adele",
+      "views": "2.3B",
+      "audioUrl": "https://samplelib.com/lib/preview/mp3/sample-3s.mp3",
+      "imageUrl": "https://a10.gaanacdn.com/gn_img/albums/MmqK5pEbwR/qK5pmMdEbw/size_l_1637318611.webp"
+    },
+    {
+      "id": "12",
+      "title": "Montero (Call Me By Your Name)",
+      "artist": "Lil Nas X",
+      "views": "1.8B",
+      "audioUrl": "https://samplelib.com/lib/preview/mp3/sample-15s.mp3",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/6/6b/Montero_%28Call_Me_by_Your_Name%29.png"
+    },
+    {
+      "id": "13",
+      "title": "Permission to Dance",
+      "artist": "BTS",
+      "views": "1.4B",
+      "audioUrl": "https://samplelib.com/lib/preview/mp3/sample-6s.mp3",
+      "imageUrl": "https://a10.gaanacdn.com/gn_img/albums/21GWwrR3pk/GWwrewyQ3p/size_l.webp"
+    },
+    {
+      "id": "14",
+      "title": "Butter",
+      "artist": "BTS",
+      "views": "1.9B",
+      "audioUrl": "https://samplelib.com/lib/preview/mp3/sample-12s.mp3",
+      "imageUrl": "https://a10.gaanacdn.com/gn_img/albums/9En3pqeWXD/n3pqmVG0WX/size_l.webp"
+    },
+    {
+      "id": "15",
+      "title": "Someone You Loved",
+      "artist": "Lewis Capaldi",
+      "views": "2.4B",
+      "audioUrl": "https://samplelib.com/lib/preview/mp3/sample-7s.mp3",
+      "imageUrl": "https://a10.gaanacdn.com/gn_img/albums/R7vKX6WmrP/7vKX9qV3mr/size_l.webp"
+    },
+    {
+      "id": "16",
+      "title": "Memories",
+      "artist": "Maroon 5",
+      "views": "1.2B",
+      "audioUrl": "https://samplelib.com/lib/preview/mp3/sample-3s.mp3",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/c/c3/Maroon_5_-_Memories.png"
+    },
+    {
+      "id": "17",
+      "title": "Happier Than Ever",
+      "artist": "Billie Eilish",
+      "views": "1.1B",
+      "audioUrl": "https://samplelib.com/lib/preview/mp3/sample-15s.mp3",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/6/60/Billie_Eilish_-_Happier_Than_Ever.png"
+    },
+    {
+      "id": "18",
+      "title": "Without You",
+      "artist": "The Kid LAROI",
+      "views": "1.6B",
+      "audioUrl": "https://samplelib.com/lib/preview/mp3/sample-6s.mp3",
+      "imageUrl": "https://a10.gaanacdn.com/gn_img/albums/4Z9bqgo3yQ/Z9bqQ5p1by/size_l.webp"
+    },
+    {
+      "id": "19",
+      "title": "Shivers",
+      "artist": "Ed Sheeran",
+      "views": "1.3B",
+      "audioUrl": "https://samplelib.com/lib/preview/mp3/sample-12s.mp3",
+      "imageUrl": "https://a10.gaanacdn.com/gn_img/albums/zLp36v3rGe/p36POvkNbr/size_l.jpg"
+    },
+    {
+      "id": "20",
+      "title": "Astronaut In The Ocean",
+      "artist": "Masked Wolf",
+      "views": "1.2B",
+      "audioUrl": "https://samplelib.com/lib/preview/mp3/sample-7s.mp3",
+      "imageUrl": "https://a10.gaanacdn.com/gn_img/albums/VdNW0JMKo5/NW0JV9yMKo/size_l.webp"
+    }
+  ],
+  
+  "artists": [
+    {
+      "id": "1",
+      "name": "Ed Sheeran",
+      "genre": "Pop",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/45/Ed_Sheeran_2013.jpg",
+      "topSong": "Shape of You"
+    },
+    {
+      "id": "2",
+      "name": "The Weeknd",
+      "genre": "R&B",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/35/The_Weeknd_2015.jpg",
+      "topSong": "Blinding Lights"
+    },
+    {
+      "id": "3",
+      "name": "Taylor Swift",
+      "genre": "Country/Pop",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Taylor_Swift_Red_Tour_2013.jpg",
+      "topSong": "Love Story"
+    },
+    {
+      "id": "4",
+      "name": "Adele",
+      "genre": "Soul/Pop",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/82/Adele_2016.jpg",
+      "topSong": "Someone Like You"
+    },
+    {
+      "id": "5",
+      "name": "Billie Eilish",
+      "genre": "Pop",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Billie_Eilish_October_2018.png",
+      "topSong": "Bad Guy"
+    },
+    {
+      "id": "6",
+      "name": "Beyoncé",
+      "genre": "R&B/Pop",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Beyonce_Knowles_2011.jpg",
+      "topSong": "Halo"
+    },
+    {
+      "id": "7",
+      "name": "Bruno Mars",
+      "genre": "Pop/Funk",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Bruno_Mars_Versace.jpg",
+      "topSong": "Uptown Funk"
+    },
+    {
+      "id": "8",
+      "name": "Justin Bieber",
+      "genre": "Pop",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/91/Justin_Bieber_in_2015.jpg",
+      "topSong": "Peaches"
+    },
+    {
+      "id": "9",
+      "name": "Dua Lipa",
+      "genre": "Pop",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Dua_Lipa_MTV_2019.png",
+      "topSong": "Levitating"
+    },
+    {
+      "id": "10",
+      "name": "Harry Styles",
+      "genre": "Pop",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Harry_Styles_in_2021.jpg",
+      "topSong": "Watermelon Sugar"
+    },
+    {
+      "id": "11",
+      "name": "Lil Nas X",
+      "genre": "Hip Hop",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/42/Lil_Nas_X_2021.jpg",
+      "topSong": "Montero (Call Me By Your Name)"
+    },
+    {
+      "id": "12",
+      "name": "Ariana Grande",
+      "genre": "Pop",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Ariana_Grande_2017.png",
+      "topSong": "Positions"
+    },
+    {
+      "id": "13",
+      "name": "Shawn Mendes",
+      "genre": "Pop",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Shawn_Mendes_2019.jpg",
+      "topSong": "Stitches"
+    },
+    {
+      "id": "14",
+      "name": "Drake",
+      "genre": "Hip Hop",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/90/Drake_July_2016.jpg",
+      "topSong": "God's Plan"
+    },
+    {
+      "id": "15",
+      "name": "Rihanna",
+      "genre": "R&B/Pop",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Rihanna%2C_Diamond_Ball_August_2017.png",
+      "topSong": "Umbrella"
+    },
+    {
+      "id": "16",
+      "name": "Lady Gaga",
+      "genre": "Pop",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Lady_Gaga_2019.jpg",
+      "topSong": "Shallow"
+    },
+    {
+      "id": "17",
+      "name": "Kanye West",
+      "genre": "Hip Hop",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Kanye_West_2011.png",
+      "topSong": "Stronger"
+    },
+    {
+      "id": "18",
+      "name": "Kendrick Lamar",
+      "genre": "Hip Hop",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/62/Kendrick_Lamar_2018.png",
+      "topSong": "HUMBLE."
+    },
+    {
+      "id": "19",
+      "name": "Post Malone",
+      "genre": "Hip Hop/Pop",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Post_Malone_2018.jpg",
+      "topSong": "Circles"
+    },
+    {
+      "id": "20",
+      "name": "Sia",
+      "genre": "Pop",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Sia_2016.png",
+      "topSong": "Chandelier"
+    },
+    {
+      "id": "21",
+      "name": "Maroon 5",
+      "genre": "Pop/Rock",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Maroon_5_2016.jpg",
+      "topSong": "Memories"
+    },
+    {
+      "id": "22",
+      "name": "Coldplay",
+      "genre": "Rock",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/70/Coldplay_performing_in_2017.jpg",
+      "topSong": "Fix You"
+    },
+    {
+      "id": "23",
+      "name": "Imagine Dragons",
+      "genre": "Rock",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/85/Imagine_Dragons_2015.jpg",
+      "topSong": "Believer"
+    }
+  ],
+  "playlist": [
+  {
+    "id": "1",
+    "title": "International New Releases",
+    "image": "/images/international-new-releases.jpg",
+    "views": "12.3m",
+    "moods": ["Happy", "Motivation"],
+    "vibes": ["Party", "Driving"],
+    "time": ["Monday", "Friday"],
+    "holiday": ["Christmas", "New Year's Day"],
+    "genre": "Pop"
+  },
+  {
+    "id": "2",
+    "title": "Big Hitters",
+    "image": "/images/big-hitters.jpg",
+    "views": "11m",
+    "moods": ["Relax", "Sad"],
+    "vibes": ["Study&Work", "Sleep"],
+    "time": ["Tuesday", "Thursday"],
+    "holiday": ["Halloween", "Easter"],
+    "genre": "Jazz"
+  },
+  {
+    "id": "3",
+    "title": "Wedding Classics",
+    "image": "/images/wedding-classics.jpg",
+    "views": "7.5m",
+    "moods": ["Happy", "Motivation"],
+    "vibes": ["Wedding", "Dance"],
+    "time": ["Saturday", "Sunday"],
+    "holiday": ["Valentine's Day"],
+    "genre": "Pop"
+  },
+  {
+    "id": "4",
+    "title": "Friday Feeling",
+    "image": "/images/friday-feelings.jpg",
+    "views": "8.5m",
+    "moods": ["Happy"],
+    "vibes": ["Party", "Yoga"],
+    "time": ["Friday"],
+    "holiday": ["Mother's Day"],
+    "genre": "Rock"
+  },
+  {
+    "id": "5",
+    "title": "Focus: Bella Shmurda",
+    "image": "/images/bella-shmurda-focus.jpg",
+    "views": "3.2m",
+    "moods": ["Relax"],
+    "vibes": ["Study&Work", "Driving"],
+    "time": ["Monday", "Thursday"],
+    "holiday": ["Eid"],
+    "genre": "Afrobeats"
+  },
+  {
+    "id": "6",
+    "title": "Gaming Soundtracks",
+    "image": "/images/gaming-soundtracks.jpg",
+    "views": "4.3m",
+    "moods": ["Motivation", "Happy"],
+    "vibes": ["Games", "Workout"],
+    "time": ["Wednesday", "Saturday"],
+    "holiday": ["International Women's Day"],
+    "genre": "Electronic"
+  },
+  {
+    "id": "7",
+    "title": "Morning Vibes",
+    "image": "/images/morning-vibes.jpg",
+    "views": "5.6m",
+    "moods": ["Motivation", "Happy"],
+    "vibes": ["Yoga", "Study&Work"],
+    "time": ["Monday", "Wednesday"],
+    "holiday": ["Eid"],
+    "genre": "Jazz"
+  },
+  {
+    "id": "8",
+    "title": "Weekend Chill",
+    "image": "/images/weekend-chill.jpg",
+    "views": "9.2m",
+    "moods": ["Relax"],
+    "vibes": ["Sleep", "Trip"],
+    "time": ["Saturday", "Sunday"],
+    "holiday": ["Christmas"],
+    "genre": "Blues"
+  },
+  {
+    "id": "9",
+    "title": "Workout Anthems",
+    "image": "/images/workout-anthems.jpg",
+    "views": "18.2m",
+    "moods": ["Motivation", "Happy"],
+    "vibes": ["Workout", "Party"],
+    "time": ["Wednesday", "Friday"],
+    "holiday": ["Father's Day"],
+    "genre": "Pop"
+  },
+  {
+    "id": "10",
+    "title": "Festival Anthems",
+    "image": "/images/festival-anthems.jpg",
+    "views": "20.1m",
+    "moods": ["Happy", "Motivation"],
+    "vibes": ["Party", "Dance"],
+    "time": ["Friday", "Saturday"],
+    "holiday": ["Christmas", "New Year's Day"],
+    "genre": "Pop"
+  },
+  {
+    "id": "11",
+    "title": "Romantic Tunes",
+    "image": "/images/romantic-tunes.jpg",
+    "views": "7.8m",
+    "moods": ["Mapenzi"],
+    "vibes": ["Driving", "Trip"],
+    "time": ["Thursday", "Friday"],
+    "holiday": ["Valentine's Day"],
+    "genre": "R&B"
+  },
+  {
+    "id": "12",
+    "title": "Soulful Sundays",
+    "image": "/images/soulful-sundays.jpg",
+    "views": "6.7m",
+    "moods": ["Relax", "Furaha"],
+    "vibes": ["Trip", "Driving"],
+    "time": ["Sunday"],
+    "holiday": ["Easter"],
+    "genre": "Blues"
+  },
+  {
+    "id": "13",
+    "title": "Late Night Drives",
+    "image": "/images/late-night-drives.jpg",
+    "views": "4.9m",
+    "moods": ["Sad", "Mapenzi"],
+    "vibes": ["Driving"],
+    "time": ["Saturday", "Sunday"],
+    "holiday": ["Mother's Day"],
+    "genre": "R&B"
+  },
+  {
+    "id": "14",
+    "title": "Dance Hits",
+    "image": "/images/dance-hits.jpg",
+    "views": "14.5m",
+    "moods": ["Happy", "Motivation"],
+    "vibes": ["Dance", "Workout"],
+    "time": ["Wednesday", "Friday"],
+    "holiday": ["New Year's Day"],
+    "genre": "Electronic"
+  }
+],
+"genres": [
+  { "id": "1", "title": "Pop", "imageUrl": "https://via.placeholder.com/200x200?text=Pop" },
+  { "id": "2", "title": "Soul", "imageUrl": "https://via.placeholder.com/200x200?text=Soul" },
+  { "id": "3", "title": "Electronic", "imageUrl": "https://via.placeholder.com/200x200?text=Electronic" },
+  { "id": "4", "title": "Rock", "imageUrl": "https://via.placeholder.com/200x200?text=Rock" },
+  { "id": "5", "title": "Country", "imageUrl": "https://via.placeholder.com/200x200?text=Country" },
+  { "id": "6", "title": "Reggae", "imageUrl": "https://via.placeholder.com/200x200?text=Reggae" },
+  { "id": "7", "title": "Gospel", "imageUrl": "https://via.placeholder.com/200x200?text=Gospel" },
+  { "id": "8", "title": "World Music/Folklore", "imageUrl": "https://via.placeholder.com/200x200?text=World+Music" },
+  { "id": "9", "title": "Traditional", "imageUrl": "https://via.placeholder.com/200x200?text=Traditional" },
+  { "id": "10", "title": "Highlife", "imageUrl": "https://via.placeholder.com/200x200?text=Highlife" },
+  { "id": "11", "title": "Jazz", "imageUrl": "https://via.placeholder.com/200x200?text=Jazz" },
+  { "id": "12", "title": "New Age", "imageUrl": "https://via.placeholder.com/200x200?text=New+Age" },
+  { "id": "13", "title": "Afrobeats", "imageUrl": "https://via.placeholder.com/200x200?text=Afrobeats" },
+  { "id": "14", "title": "Afropop", "imageUrl": "https://via.placeholder.com/200x200?text=Afropop" },
+  { "id": "15", "title": "R&B", "imageUrl": "https://via.placeholder.com/200x200?text=R&B" },
+  { "id": "16", "title": "Hip Hop & Rap", "imageUrl": "https://via.placeholder.com/200x200?text=Hip+Hop" }
+],
+  "users": [
+    {
+      "id": "bc39",
+      "email": "shrey_rastogi@srmap.edu.in",
+      "phone": "6306441496",
+      "password": "hello",
+      "username": "Shrey_rastogi",
+      "gender": "Male"
+    },
+    {
+      "id": "83c7",
+      "email": "adityasodisetti@gmail.com",
+      "phone": "9573779644",
+      "password": "heyyy",
+      "username": "Aditya_raj",
+      "gender": "Male"
+    }
+  ]
+}
